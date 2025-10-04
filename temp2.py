@@ -8,7 +8,7 @@ temp_fahrenheit = (temp_celsius * 9/5) + 32
 
 # Conditions for Celsius
 if temp_celsius < 20:
-    condition = "Cold "
+    condition = "Cold"
 elif 20 <= temp_celsius <= 30:
     condition = "Normal "
 else:
